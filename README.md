@@ -1,1 +1,1 @@
-## openclaw bot for tofuu
+## openclaw bot for toofuu
